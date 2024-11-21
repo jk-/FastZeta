@@ -1,6 +1,6 @@
-# Zeta Function Implementation Benchmarks
+# FastZeta: High-Performance Riemann Zeta Function Approximation
 
-Comprehensive performance analysis comparing FastZeta against traditional and modern zeta function calculation methods.
+A highly optimized implementation of the Riemann zeta function that provides significant performance improvements while maintaining accuracy.
 
 ## Performance Summary
 
